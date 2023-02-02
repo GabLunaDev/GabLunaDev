@@ -1,6 +1,11 @@
 ## Hello everyone!
 
-My name is Gabriel Luna, currently I'm a Back-End Developer at Tascom Informática. I'm working with TypeScript, Node.js, Postgresql. Nowadays I'm falling in game development and working to be a game engineer.
+My name is Gabriel Luna. I'm a computer science student starting in development world.Nowadays I'm working with wep development as a back-end developer intern. This github profile will be my playground.
 
-### Some Languages that I used:
-![Node](https://img.shields.io/badge/-Nodejs-00FA9A?logo=javascript&logoColor=white&style=for-the-badge)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=black&style=for-the-badge)
+#### Some Languages that I used:
+![Node](https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png?f=avif&w=30)  ![Java](https://cdn.iconscout.com/icon/free/png-512/java-22-225997.png?f=avif&w=30)  ![JavaScript](https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png?f=avif&w=35) ![PostgreSQL](https://cdn.iconscout.com/icon/free/png-512/postgresql-8-1175119.png?f=avif&w=35)
+
+#### Social:
+<a href="https://www.linkedin.com/in/gabluna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/gablunadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:gabriellunacv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
