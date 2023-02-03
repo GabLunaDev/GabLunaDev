@@ -1,8 +1,8 @@
 ## Hello everyone!
 
-My name is Gabriel Luna. I'm a computer science student starting in development world.Nowadays I'm working with wep development as a back-end developer intern. This github profile will be my playground.
+My name is Gabriel Luna. I'm a computer science student starting in development world. Nowadays I'm working with wep development as a back-end developer intern. This github profile will be my playground.
 
-#### Some Languages that I used:
+#### Some Languages that I use:
 ![Node](https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png?f=avif&w=30)  ![Java](https://cdn.iconscout.com/icon/free/png-512/java-22-225997.png?f=avif&w=30)  ![JavaScript](https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png?f=avif&w=35) ![PostgreSQL](https://cdn.iconscout.com/icon/free/png-512/postgresql-8-1175119.png?f=avif&w=35)
 
 #### Social:
