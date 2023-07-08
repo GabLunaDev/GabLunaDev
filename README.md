@@ -1,6 +1,8 @@
 <h1 align="center"/> 👾 Welcome Traveller! 👾 </h1>
 
-
+<div align="center">
+  <img align="center" src="./contents/20c658e4c375268eed59d1c94b61059f.gif" width="550">
+</div>
 
 <div>
     <div>
